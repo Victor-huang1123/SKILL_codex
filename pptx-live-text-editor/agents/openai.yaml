@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPTX Live Text Editor"
+  short_description: "Edit open PowerPoint text while preserving slide formatting."
+  default_prompt: "Revise the wording in the current PowerPoint deck while preserving layout and formatting."

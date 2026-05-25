@@ -1,0 +1,4 @@
+interface:
+  display_name: "EDA Lab Paper Deck"
+  short_description: "Build NTU EDA Lab paper decks with figures"
+  default_prompt: "Use $eda-lab-paper-deck to create or revise a group-meeting paper presentation deck from this paper, extracting figures or tables when helpful."

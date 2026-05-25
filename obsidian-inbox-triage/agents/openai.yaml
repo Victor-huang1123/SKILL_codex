@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Inbox Triage"
+  short_description: "Classify Obsidian Inbox notes into vault folders"
+  default_prompt: "Use $obsidian-inbox-triage to review 99 - Inbox and recommend where each note belongs."

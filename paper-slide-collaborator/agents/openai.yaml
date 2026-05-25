@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Slide Collaborator"
+  short_description: "Review paper slides live."
+  default_prompt: "Help me review the current paper-presentation slide, clarify unclear wording, and draft concise Chinese speaker notes."
